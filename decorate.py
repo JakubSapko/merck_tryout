@@ -5,6 +5,9 @@ from typing import Optional
 class MessageCatcher:
 
     def print_message(self, message):
+        # do some stuff here, e.g. check for GUI
+        # do some logging
+        # etc. etc.
         print(message)
 
 
